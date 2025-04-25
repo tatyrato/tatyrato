@@ -23,8 +23,5 @@
 <img src="https://img.shields.io/badge/redash-white?logo=redash&logoColor=black&style=for-the-badge" title="Redash" alt="Redash" height="40"/>&nbsp;
 <img src="https://img.shields.io/badge/Tableau-white?logo=Tableau&s&logoColor=yellow&style=for-the-badge" title="Airflow" alt="Airflow" height="40"/>&nbsp;
 <img src="https://img.shields.io/badge/github-white?logo=github&logoColor=black&style=for-the-badge" title="GitHub" alt="GitHub" height="40"/>&nbsp;
-<img src="https://img.shields.io/badge/-EXCEL-FF?style=for-the-badge&logo=EXCEL"/>&nbsp;
-<img src="https://img.shields.io/badge/-Google_Sheets-FFF?style=for-the-badge&logo=GoogleSheets/>&nbsp;
-<img src="https://img.shields.io/badge/-GIT-FFF?style=for-the-badge&logo=GIT/>&nbsp;
 </div>
 
